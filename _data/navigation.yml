@@ -24,7 +24,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: "/files/Academic CV Stavros X. Drakopoulos.pdf"
+    target: "_blank"
     
   # - title: "CV"
   #   url: /cv-json/
