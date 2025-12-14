@@ -200,46 +200,48 @@ _Materials_.
 
 ## Book Chapters
 
----
-
-**2.**  
+<div style="margin-bottom: 1.2em;">
+<strong>2.</strong>
 <div style="margin-left: 1.5em;">
-**S.X. Drakopoulos** (2024).  
-*Dielectric Relaxation and Transport Dynamics of Solid-State Polymer Electrolytes.*  
-In <em>Batteries – The Future of Energy Storage</em> (Ed: S. Maniam), Jenny Stanford Publishing, pp. 117–153.  
+<strong>S.X. Drakopoulos</strong> (2024).<br>
+<em>Dielectric Relaxation and Transport Dynamics of Solid-State Polymer Electrolytes.</em><br>
+In <em>Batteries – The Future of Energy Storage</em> (Ed: S. Maniam), Jenny Stanford Publishing, pp. 117–153.<br>
 <a href="https://doi.org/10.1201/9781003512882" target="_blank" rel="noopener">
 https://doi.org/10.1201/9781003512882
 </a>
 </div>
+</div>
 
----
-
-**1.**  
+<div style="margin-bottom: 1.2em;">
+<strong>1.</strong>
 <div style="margin-left: 1.5em;">
-**S.X. Drakopoulos**, S. Ronca, I. Martin-Fabiani (2020).  
-*Dielectric behavior of nonpolar polymers and their composites: The case of semicrystalline polyolefins.*  
-In <em>Dielectrics and Crystallization</em> (Eds: T.A. Ezquerra & A. Nogales), Advances in Dielectrics series, Springer International Publishing, pp. 243–265.  
+<strong>S.X. Drakopoulos</strong>, S. Ronca, I. Martin-Fabiani (2020).<br>
+<em>Dielectric behavior of nonpolar polymers and their composites: The case of semicrystalline polyolefins.</em><br>
+In <em>Dielectrics and Crystallization</em> (Eds: T.A. Ezquerra &amp; A. Nogales), Advances in Dielectrics series, Springer International Publishing, pp. 243–265.<br>
 <a href="https://doi.org/10.1007/978-3-030-56186-4_10" target="_blank" rel="noopener">
 https://doi.org/10.1007/978-3-030-56186-4_10
 </a>
 </div>
+</div>
+
 
 ## Patents
 
----
-
-**2.**  
+<div style="margin-bottom: 1.2em;">
+<strong>2.</strong>
 <div style="margin-left: 1.5em;">
-**S.X. Drakopoulos** (November 2016).  
-*A Method of Improving the Piezoelectric Charge Coefficient in Composite Piezoelectric Materials.*  
+<strong>S.X. Drakopoulos</strong> (November 2016).<br>
+<em>A Method of Improving the Piezoelectric Charge Coefficient in Composite Piezoelectric Materials.</em><br>
 Hellenic Industrial Property Organization, Patent No. GR 1009017.
 </div>
+</div>
 
----
-
-**1.**  
+<div style="margin-bottom: 1.2em;">
+<strong>1.</strong>
 <div style="margin-left: 1.5em;">
-**S.X. Drakopoulos** (December 2014).  
-*Piezoelectric Engine.*  
+<strong>S.X. Drakopoulos</strong> (December 2014).<br>
+<em>Piezoelectric Engine.</em><br>
 Hellenic Industrial Property Organization, Patent No. GR 1008662.
 </div>
+</div>
+
