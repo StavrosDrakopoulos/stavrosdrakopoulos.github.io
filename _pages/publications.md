@@ -202,7 +202,8 @@ _Materials_.
 
 ---
 
-2. **S.X. Drakopoulos** (2024).  
+**2.**  
+**S.X. Drakopoulos** (2024).  
 *Dielectric Relaxation and Transport Dynamics of Solid-State Polymer Electrolytes.*  
 In <em>Batteries – The Future of Energy Storage</em> (Ed: S. Maniam), Jenny Stanford Publishing, pp. 117–153.  
 <a href="https://doi.org/10.1201/9781003512882" target="_blank" rel="noopener">
@@ -211,7 +212,8 @@ https://doi.org/10.1201/9781003512882
 
 ---
 
-1. **S.X. Drakopoulos**, S. Ronca, I. Martin-Fabiani (2020).  
+**1.**  
+**S.X. Drakopoulos**, S. Ronca, I. Martin-Fabiani (2020).  
 *Dielectric behavior of nonpolar polymers and their composites: The case of semicrystalline polyolefins.*  
 In <em>Dielectrics and Crystallization</em> (Eds: T.A. Ezquerra & A. Nogales), Advances in Dielectrics series, Springer International Publishing, pp. 243–265.  
 <a href="https://doi.org/10.1007/978-3-030-56186-4_10" target="_blank" rel="noopener">
@@ -223,12 +225,14 @@ https://doi.org/10.1007/978-3-030-56186-4_10
 
 ---
 
-2. **S.X. Drakopoulos** (November 2016).  
+**2.**  
+**S.X. Drakopoulos** (November 2016).  
 *A Method of Improving the Piezoelectric Charge Coefficient in Composite Piezoelectric Materials.*  
 Hellenic Industrial Property Organization, Patent No. GR 1009017.
 
 ---
 
-1. **S.X. Drakopoulos** (December 2014).  
+**1.**  
+**S.X. Drakopoulos** (December 2014).  
 *Piezoelectric Engine.*  
 Hellenic Industrial Property Organization, Patent No. GR 1008662.
