@@ -200,6 +200,8 @@ _Materials_.
 
 ## Book Chapters
 
+---
+
 <div style="margin-bottom: 1.2em;">
   <strong>2.</strong>
   <div style="margin-left: 1.5em;">
@@ -211,6 +213,8 @@ _Materials_.
     </a>
   </div>
 </div>
+
+---
 
 <div style="margin-bottom: 1.2em;">
   <strong>1.</strong>
@@ -226,6 +230,8 @@ _Materials_.
 
 ## Patents
 
+---
+
 <div style="margin-bottom: 1.2em;">
   <strong>2.</strong>
   <div style="margin-left: 1.5em;">
@@ -234,6 +240,8 @@ _Materials_.
     Hellenic Industrial Property Organization, Patent No. GR 1009017.
   </div>
 </div>
+
+---
 
 <div style="margin-bottom: 1.2em;">
   <strong>1.</strong>
