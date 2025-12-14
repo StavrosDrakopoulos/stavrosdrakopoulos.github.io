@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Acknowledgment"
-permalink: /acknowledgment/
+title: "Recognition"
+permalink: /recognition/
 author_profile: true
 ---
 
