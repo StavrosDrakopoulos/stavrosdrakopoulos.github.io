@@ -84,7 +84,6 @@ Oral Presentation at the 10th Conference on Broadband Dielectric Spectroscopy an
 </div>
 </div>
 
----
 
 ## Poster Presentations
 
@@ -220,4 +219,4 @@ Oral Presentation at the 10th Conference on Broadband Dielectric Spectroscopy an
   </div>
 </div>
 
----
+
