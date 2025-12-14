@@ -210,6 +210,7 @@ In <em>Batteries – The Future of Energy Storage</em> (Ed: S. Maniam), Jenny St
 <a href="https://doi.org/10.1201/9781003512882" target="_blank" rel="noopener">
 https://doi.org/10.1201/9781003512882
 </a>
+</div>
 
 ---
 
@@ -221,7 +222,7 @@ In <em>Dielectrics and Crystallization</em> (Eds: T.A. Ezquerra & A. Nogales), A
 <a href="https://doi.org/10.1007/978-3-030-56186-4_10" target="_blank" rel="noopener">
 https://doi.org/10.1007/978-3-030-56186-4_10
 </a>
-
+</div>
 
 ## Patents
 
@@ -232,6 +233,7 @@ https://doi.org/10.1007/978-3-030-56186-4_10
 **S.X. Drakopoulos** (November 2016).  
 *A Method of Improving the Piezoelectric Charge Coefficient in Composite Piezoelectric Materials.*  
 Hellenic Industrial Property Organization, Patent No. GR 1009017.
+</div>
 
 ---
 
@@ -240,3 +242,4 @@ Hellenic Industrial Property Organization, Patent No. GR 1009017.
 **S.X. Drakopoulos** (December 2014).  
 *Piezoelectric Engine.*  
 Hellenic Industrial Property Organization, Patent No. GR 1008662.
+</div>
