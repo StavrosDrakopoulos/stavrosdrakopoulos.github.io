@@ -20,8 +20,10 @@ In 2023, I moved to the US to join the Priestley Lab, led by Professor Rodney D.
 
 ## Education & Training
 
-**Associate Research Scholar** (2023 – present) Princeton University, Princeton Materials Institute<br>
-Advisor: _Rodney D. Priestley_ | Research Topic: _Relaxation and Charge Transport Dynamics of Various Polymer-based Systems_. 
+**Associate Research Scholar** (2023 – present) <br>
+Princeton University, Princeton Materials Institute <br>
+Advisor: _Rodney D. Priestley_ <br> 
+Research Topic: _Relaxation and Charge Transport Dynamics of Various Polymer-based Systems_. 
 
 **Postdoctoral Research Associate** (2021 – 2023) University of Bath, Department of Physics<br>
 Advisor: _Kamal Asadi_ | Research Topic: _Dielectric Spectroscopy of Conjugated Polymers, Polyelectrolytes, and Polymer-Grafted Nanoparticles_.
