@@ -30,7 +30,7 @@ University of Bath, Department of Physics <br>
 Advisor: _Kamal Asadi_ <br> 
 Research Topic: _Dielectric Spectroscopy of Conjugated Polymers, Polyelectrolytes, and Polymer-Grafted Nanoparticles_.
 
-**Postdoctoral Research Associate** (2020 – 2021) <br> 
+**The Faraday Institution Research Fellow** (2020 – 2021) <br> 
 University of Birmingham, School of Metallurgy and Materials <br>
 Advisor: _Emma Kendrick_ <br> 
 Research Topic: _Electrode Manufacturing for Li-ion Batteries_.
