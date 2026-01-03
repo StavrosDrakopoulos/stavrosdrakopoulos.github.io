@@ -25,16 +25,24 @@ Princeton University, Princeton Materials Institute <br>
 Advisor: _Rodney D. Priestley_ <br> 
 Research Topic: _Relaxation and Charge Transport Dynamics of Various Polymer-based Systems_. 
 
-**Postdoctoral Research Associate** (2021 – 2023) University of Bath, Department of Physics<br>
-Advisor: _Kamal Asadi_ | Research Topic: _Dielectric Spectroscopy of Conjugated Polymers, Polyelectrolytes, and Polymer-Grafted Nanoparticles_.
+**Postdoctoral Research Associate** (2021 – 2023) <br> 
+University of Bath, Department of Physics <br>
+Advisor: _Kamal Asadi_ <br> 
+Research Topic: _Dielectric Spectroscopy of Conjugated Polymers, Polyelectrolytes, and Polymer-Grafted Nanoparticles_.
 
-**Postdoctoral Research Associate** (2020 – 2021) University of Birmingham, School of Metallurgy and Materials<br>
-Advisor: _Emma Kendrick_ | Research Topic: _Electrode Manufacturing for Li-ion Batteries_.
+**Postdoctoral Research Associate** (2020 – 2021) <br> 
+University of Birmingham, School of Metallurgy and Materials <br>
+Advisor: _Emma Kendrick_ <br> 
+Research Topic: _Electrode Manufacturing for Li-ion Batteries_.
 
-**Ph.D. in Materials Engineering** (2016 – 2019) Loughborough University, Department of Materials<br>
-Supervisors: _Sara Ronca, Ignacio Martin-Fabiani_ | Doctoral Thesis: _Disentangled ultra-high molecular weight polyethylene and its nanocomposites: relaxation dynamics, entanglement formation and anisotropic properties due to orientation_.
+**Ph.D. in Materials Engineering** (2016 – 2019) <br>
+Loughborough University, Department of Materials<br>
+Supervisors: _Sara Ronca, Ignacio Martin-Fabiani_ <br> 
+Doctoral Thesis: _Disentangled ultra-high molecular weight polyethylene and its nanocomposites: relaxation dynamics, entanglement formation and anisotropic properties due to orientation_.
 
-**B.Sc. in Materials Science** (2011 – 2016) University of Patras, Department of Materials Science<br>
-Supervisor: _Georgios C. Psarras_ | Thesis: _Chemical composition, thermomechanical behavior and electrical response of biocomposite thermoplastic starch matrix materials, reinforced with latex and cellulose particles_.
+**B.Sc. in Materials Science** (2011 – 2016) <br>
+University of Patras, Department of Materials Science<br>
+Supervisor: _Georgios C. Psarras_ <br> 
+Thesis: _Chemical composition, thermomechanical behavior and electrical response of biocomposite thermoplastic starch matrix materials, reinforced with latex and cellulose particles_.
 
 
