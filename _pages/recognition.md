@@ -37,7 +37,7 @@ author_profile: true
   <a href="https://www.lboro.ac.uk/alumni/news/2024/october/alumnus-the-peter-debye-prize/"
      target="_blank" rel="noopener">Read more</a> <br>
 
-<u>Patras University</u> — International Honorary Distinction to a Graduate of the Department of Materials Science.  
+<u>Patras University</u> — International Honorary Distinction to a Graduate of the Department of Materials Science (<em>in Greek</em>).  
   <a href="https://www.upatras.gr/diethnis-timitiki-diakrisi-se-apofoito-tou-tmimatos-epistimis-ton-ylikon/"
      target="_blank" rel="noopener">Read more</a> <br>
      
