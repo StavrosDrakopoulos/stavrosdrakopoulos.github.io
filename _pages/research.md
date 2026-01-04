@@ -10,9 +10,9 @@ author_profile: true
 
 ## Research Overview
 
-My research integrates polymer physics, dielectric spectroscopy, and nanocomposite engineering to advance energy
-materials for next-generation electronics and storage technologies. Using various techniques expanding further onbroadband dielectric spectroscopy,
-like dynamic mechanical analysis, rheology, and calorimetry, and combined with rigorous data modelling, I establish relationships linking molecular dynamics to performance. This enables rational design of materials with tailored electrical and mechanical properties. By optimizing processing and structure–property relationships, my work advances scientific understanding and technological innovation to address global energy challenges.
+My research integrates polymer physics, dielectric physics, and polymer nanocomposite science blended with an engineering approach to advance energy
+materials for next-generation electronics and storage technologies. Using various techniques like broadband dielectric spectroscopy,
+as well as, dynamic mechanical analysis, rheology, and calorimetry, and combined with rigorous data analysis and fitting approaches, I establish relationships between molecular characteristics, relaxation and charge transport dynamics, and performance. This enables rational design of materials with tailored electrical, thermal and mechanical properties. By optimizing processing and structure–property relationships, my work advances scientific understanding and technological innovation to address global energy challenges.
 
 <br>
 
