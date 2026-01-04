@@ -25,14 +25,17 @@ author_profile: true
       https://the-dielectric-society.org/debye/stavros-x-drakopoulos
     </a>
 
-### News & Media Coverage
+<br>
+
+### News & Media Coverage <br>
+
     - <strong>Princeton Materials Institute</strong> — Announcement of the Peter Debye Prize awarded to Dr. Stavros X. Drakopoulos for outstanding contributions to dielectric research and polymer physics.  
   <a href="https://materials.princeton.edu/news/2024/polymer-researcher-stavros-x-drakopoulos-wins-debye-prize"
-     target="_blank" rel="noopener">Read more</a>
+     target="_blank" rel="noopener">Read more</a> <br>
 
-- <strong>Loughborough University</strong> — Alumni feature recognizing Dr. Drakopoulos as an international recipient of the Peter Debye Prize.  
+- <strong>Loughborough University</strong> — Alumnus awarded The Peter Debye Prize.  
   <a href="https://www.lboro.ac.uk/alumni/news/2024/october/alumnus-the-peter-debye-prize/"
-     target="_blank" rel="noopener">Read more</a>
+     target="_blank" rel="noopener">Read more</a> <br>
      
   </div>
 </div>
