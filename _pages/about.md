@@ -44,5 +44,8 @@ Doctoral Thesis: _Disentangled ultra-high molecular weight polyethylene and its 
 University of Patras, Department of Materials Science<br>
 Supervisor: _Georgios C. Psarras_ <br> 
 Thesis: _Chemical composition, thermomechanical behavior and electrical response of biocomposite thermoplastic starch matrix materials, reinforced with latex and cellulose particles_.
-
+<br> 
+<br> 
+<br> 
+Created by <em>Yiming Ma</em>
 
