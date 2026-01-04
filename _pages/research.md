@@ -30,6 +30,14 @@ Understanding the intricate relationship between conductivity and polymer film m
 <a href="https://doi.org/10.1021/acs.macromol.3c02556"
      target="_blank" rel="noopener">Read more</a> <br>
 
+<strong>Epoxy/clay nanodielectrics: from relaxation dynamics to capacitive energy storage</strong> <br>
+
+<img src="/images/research_figure_4.png" alt="Dielectric spectroscopy research" width="600"> <br>
+
+Nanodielectric systems based on a high glass-to-rubber transition temperature (Tg) epoxy resin modified with laponite® (Na+0.7[(Si8Mg5.5Li0.3)O20(OH)4]–0.7) cylindrical nanoparticles were developed and examined as dielectric materials for capacitive energy storage applications. Laponite is an inexpensive synthetic nanoclay that has recently gathered attention as potent electrode material for batteries, due to its high specific surface area and ionic groups. The dielectric properties of the developed nanocomposites were investigated extensively by means of broadband dielectric spectroscopy (BDS), which revealed intense Maxwell–Wagner-Sillars interfacial polarisation (MWS-IP) phenomena at the organic/inorganic interface and an additional dielectric process that showed a strong dependence on the nanoclay concentration, thus attributed to laponite (IDE). It was also found that the presence of laponite significantly altered the temperature dependence of MWS-IP, leading to an enhancement in relaxation times at higher temperatures. The observed phenomenon is attributed to less mobile, adsorbed polymer fragments entrapped between two or more laponite nanoparticles that alters the interphase between the particle and the epoxy. MWS-IP was observed to obey the Barton-Nakajima-Namikawa relation with the dc conductivity values being indicative that both phenomena are associated with the same charge carriers, at different timescales. Moreover, the cycle life performance of epoxy/laponite nanodielectrics was also examined at 30 °C and 120 °C conducting charge/discharge measurements in dc conditions. The addition of laponite nanoparticles endowed the nanodielectric systems with significantly improved capacitive energy efficacy.
+<a href="https://doi.org/10.1007/s42114-024-00924-4"
+     target="_blank" rel="noopener">Read more</a> <br>
+
 
 <strong>Flexible Polymer-Based Nanodielectrics Reinforced with Electrospun Composite Nanofibers for Capacitive Energy Storage</strong> <br>
 
