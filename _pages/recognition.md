@@ -30,12 +30,17 @@ author_profile: true
 ### News & Media Coverage 
 
 <br>
+<br>
 <u>Princeton Materials Institute</u> — Polymer researcher Stavros X. Drakopoulos wins Debye Prize.  
   <a href="https://materials.princeton.edu/news/2024/polymer-researcher-stavros-x-drakopoulos-wins-debye-prize"
      target="_blank" rel="noopener">Read more</a> <br>
 
 <u>Loughborough University</u> — Alumnus awarded The Peter Debye Prize.  
   <a href="https://www.lboro.ac.uk/alumni/news/2024/october/alumnus-the-peter-debye-prize/"
+     target="_blank" rel="noopener">Read more</a> <br>
+
+<u>Patras University</u> — International Honorary Distinction to a Graduate of the Department of Materials Science.  
+  <a href="https://www.upatras.gr/diethnis-timitiki-diakrisi-se-apofoito-tou-tmimatos-epistimis-ton-ylikon/"
      target="_blank" rel="noopener">Read more</a> <br>
      
   </div>
