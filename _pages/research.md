@@ -32,4 +32,15 @@ Understanding the intricate relationship between conductivity and polymer film m
      target="_blank" rel="noopener">Read more</a> <br>
 
 
+<strong>Flexible Polymer-Based Nanodielectrics Reinforced with Electrospun Composite Nanofibers for Capacitive Energy Storage</strong> <br>
+
+<img src="/images/research_figure_2.png" alt="Dielectric spectroscopy research" width="600"> <br>
+
+Nanocomposite materials based on polydimethylsiloxane (PDMS) reinforced by electrospun poly(vinylidene fluoride) (PVDF) nanofibers and barium titanate (BTO) nanoparticles were fabricated and tested as dielectric materials for capacitive energy storage applications. Two types of BTO nanoparticles were examined, prior and after ball milling, to investigate the effect of interfacial area and size on the dielectric properties. The morphology of the produced PVDF nanofibers was evaluated via scanning electron microscopy (SEM) to ensure the optimum electrospinning conditions and verify the incorporation of BTO nanoparticles. The composite systems were analyzed by dielectric spectroscopy, and three dielectric processes were revealed: the dynamic glass-to-rubber transition processes of PDMS and PVDF and an interfacial polarization process. It was observed that the dynamic glass-to-rubber transition process of the PVDF nanofibers strongly depends on the size of the BTO nanoparticles that introduce confinement effects and affect thus the temperature dependence of the relaxation. In addition, as verified by ac conductivity, ball milling reduced the conduction of the nanocomposites by 80%, indicating the increase of the charge carrier trapping area around the BTO nanoparticles. Finally, the developed nanocomposites were tested as dielectric materials for capacitor applications at room temperature conducting charge/discharge measurements under the influence of a dc electric field, and their discharge performance and efficiency were examined at various dc voltages (50–300 V) and cycle life. Here, experimental evidence regarding the importance of interfacial area on the energy storage performance in nanodielectrics is presented that will aid the development of more efficient energy materials.
+
+<a href="[https://doi.org/10.1021/acs.macromol.3c02556](https://doi.org/10.1021/acsapm.2c01162)"
+     target="_blank" rel="noopener">Read more</a> <br>
+
+
+
 ## Future Research
