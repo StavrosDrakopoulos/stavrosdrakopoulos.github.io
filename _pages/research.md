@@ -61,3 +61,5 @@ Dielectrics are a class of materials that are utilized in energy storage devices
 <strong>As a <em>future professor</em>, my ambition is to pioneer the development of sustainable multi-functional polymer-based composite materials to enable next-generation energy storage solutions that are efficient, reliable, and environmentally responsible.</strong>
 Through interdisciplinary collaboration and integration of fundamental polymer physics with industrial application, the work creates a strategic platform for innovation that
 could extend to flexible electronics, solid-state batteries, and lightweight energy systems. Our efforts will revolve around the fundamentals and engineering aspects of energy storage, approaching it from three different directions, as seen below.
+
+<img src="/images/future_research.png" alt="Dielectric spectroscopy research" width="600"> <br>
