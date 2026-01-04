@@ -18,4 +18,8 @@ with tailored electrical and mechanical properties. By optimizing processing and
 relationships, my work advances scientific understanding and technological innovation to address global energy
 challenges.
 
+<br>
+
+Universal Scaling of DC Conductivity with Dielectric Interfacial Polarization in Conjugated Polymers
+
 ## Future Research
