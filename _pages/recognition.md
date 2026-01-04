@@ -26,11 +26,9 @@ author_profile: true
     </a>
 
 <br>
-<br>
 
 <h3>News &amp; Media Coverage</h3>
 
-<br>
 <u>Princeton Materials Institute</u> — Polymer researcher Stavros X. Drakopoulos wins Debye Prize.  
   <a href="https://materials.princeton.edu/news/2024/polymer-researcher-stavros-x-drakopoulos-wins-debye-prize"
      target="_blank" rel="noopener">Read more</a> <br>
