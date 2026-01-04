@@ -27,13 +27,14 @@ author_profile: true
 
 <br>
 
-### News & Media Coverage <br>
+### News & Media Coverage 
 
-    - <strong>Princeton Materials Institute</strong> — Announcement of the Peter Debye Prize awarded to Dr. Stavros X. Drakopoulos for outstanding contributions to dielectric research and polymer physics.  
+
+<u>Princeton Materials Institute</u> — Polymer researcher Stavros X. Drakopoulos wins Debye Prize.  
   <a href="https://materials.princeton.edu/news/2024/polymer-researcher-stavros-x-drakopoulos-wins-debye-prize"
      target="_blank" rel="noopener">Read more</a> <br>
 
-- <strong>Loughborough University</strong> — Alumnus awarded The Peter Debye Prize.  
+<u>Loughborough University</u> — Alumnus awarded The Peter Debye Prize.  
   <a href="https://www.lboro.ac.uk/alumni/news/2024/october/alumnus-the-peter-debye-prize/"
      target="_blank" rel="noopener">Read more</a> <br>
      
