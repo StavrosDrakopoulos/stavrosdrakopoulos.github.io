@@ -17,8 +17,10 @@ as well as, dynamic mechanical analysis, rheology, and calorimetry, and combined
 <br>
 
 ### Representitives Research Articles
+<br>
 
 <strong>Universal Scaling of DC Conductivity with Dielectric Interfacial Polarization in Conjugated Polymers</strong> <br>
+<em>Macromolecules</em> (2024) <br>
 
 <img src="/images/research_figure_1.png" alt="Dielectric spectroscopy research" width="600"> <br>
 
@@ -27,6 +29,7 @@ Understanding the intricate relationship between conductivity and polymer film m
      target="_blank" rel="noopener">Read more</a> <br>
 
 <strong>Epoxy/clay nanodielectrics: from relaxation dynamics to capacitive energy storage</strong> <br>
+<em>Advanced Composites & Hybrid Materials</em> (2024) <br>
 
 <img src="/images/research_figure_4.png" alt="Dielectric spectroscopy research" width="600"> <br>
 
@@ -36,6 +39,7 @@ Nanodielectric systems based on a high glass-to-rubber transition temperature (T
 
 
 <strong>Flexible Polymer-Based Nanodielectrics Reinforced with Electrospun Composite Nanofibers for Capacitive Energy Storage</strong> <br>
+<em>ACS Applied Polymer Materials</em> (2022) <br>
 
 <img src="/images/research_figure_2.png" alt="Dielectric spectroscopy research" width="600"> <br>
 
@@ -44,6 +48,7 @@ Nanocomposite materials based on polydimethylsiloxane (PDMS) reinforced by elect
      target="_blank" rel="noopener">Read more</a> <br>
 
 <strong>Relaxation Dynamics in Disentangled Ultrahigh Molecular Weight Polyethylene via Torsional Rheology</strong> <br>
+<em>Industrial & Engineering Chemistry Research</em> (2020) <br>
 
 <img src="/images/research_figure_3.png" alt="Dielectric spectroscopy research" width="600"> <br>
 
