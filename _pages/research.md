@@ -57,7 +57,7 @@ The relaxation dynamics of disentangled ultrahigh molecular weight polyethylene 
 
 ## Future Research
 
-Dielectrics are a class of materials that are utilized in energy storage devices like capacitors that store and release energy by reorienting dipoles and charges under the influence of externally applied electric fields. The key elements at play in complex dielectrics are permittivity, conductivity, and dielectric loss and depend across different length scales, from molecular interactions to macroscopic architecture. <br>
-<strong>As a <em>future professor</em>, my ambition is to pioneer the development of sustainable multi-functional polymer-based composite materials to enable next-generation energy storage solutions that are efficient, reliable, and environmentally responsible.</strong> <br>
+Dielectrics are a class of materials that are utilized in energy storage devices like capacitors that store and release energy by reorienting dipoles and charges under the influence of externally applied electric fields. The key elements at play in complex dielectrics are permittivity, conductivity, and dielectric loss and depend across different length scales, from molecular interactions to macroscopic architecture.
+<strong>As a <em>future professor</em>, my ambition is to pioneer the development of sustainable multi-functional polymer-based composite materials to enable next-generation energy storage solutions that are efficient, reliable, and environmentally responsible.</strong>
 Through interdisciplinary collaboration and integration of fundamental polymer physics with industrial application, the work creates a strategic platform for innovation that
-could extend to flexible electronics, solid-state batteries, and lightweight energy systems.
+could extend to flexible electronics, solid-state batteries, and lightweight energy systems. Our efforts will revolve around the fundamentals and engineering aspects of energy storage, approaching it from three different directions, as seen below.
