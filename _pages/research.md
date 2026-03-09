@@ -19,6 +19,17 @@ as well as, dynamic mechanical analysis, rheology, and calorimetry, and combined
 ### Representitives Research Articles
 <br>
 
+<strong>Polyacrylate Vitrimer Network via In Situ Isocyanide Copolymerization: Synthesis and Molecular Dynamics</strong> <br>
+<em>Journal of the American Chemical Society</em> (2026) <br>
+
+<img src="/images/research_figure_5.png" alt="Dielectric spectroscopy research" width="600"> <br>
+<img src="/images/research_figure_6.png" alt="Dielectric spectroscopy research" width="600"> <br>
+
+Widespread plastic pollution highlights the urgent need for materials with sustainable end-of-life management. Vitrimers, cross-linked polymers containing dynamic covalent bonds, combine the durability of thermosets with their recyclability. Here, we report a one-step photocopolymerization using multifunctional isocyanides as readily accessible cross-linkers that directly introduce vinylogous urethane-like linkages into polyacrylate networks, structures difficult to obtain via amine–β-ketoester condensation. The resulting materials show good reprocessability, maintaining a comparable mechanical performance after three processing cycles. Broadband dielectric spectroscopy (BDS) reveals that the temperature dependence of the bond-exchange relaxation times evolves from a kink-like response in fresh samples to Arrhenius behavior after annealing, visualizing topological rearrangement and defect healing. A scaling relationship between bond-exchange relaxation and electrical conductivity establishes that the former is the underlying mechanism for charge transport in vitrimers. Furthermore, dipolar intermediates generated during bond exchange increase the dielectric permittivity, providing new insight into designing sustainable dielectric materials.
+<a href="https://doi.org/10.1021/jacs.5c22502"
+     target="_blank" rel="noopener">Read more</a> <br>
+
+     
 <strong>Universal Scaling of DC Conductivity with Dielectric Interfacial Polarization in Conjugated Polymers</strong> <br>
 <em>Macromolecules</em> (2024) <br>
 
@@ -27,6 +38,7 @@ as well as, dynamic mechanical analysis, rheology, and calorimetry, and combined
 Understanding the intricate relationship between conductivity and polymer film microstructure is paramount to designing and developing high-performance conjugated-polymer-based electronic devices. Conjugated polymers are typically semicrystalline, and their films comprise both highly crystalline and amorphous regions with significant disparity between the conductivity of these regions. However, traditional conductivity measurements under steady-state conditions overlook the presence of the amorphous phase, offering an incomplete perspective on charge transport. Here, by employing isothermal dielectric measurements, we reveal that the amorphous phase plays a pivotal role and dominates the electrical conductivity at temperatures more pertinent to practical applications, while the crystalline fraction takes precedence at temperatures below room temperature. The conductivity mismatch between the amorphous and crystalline phases yields the Maxwell-Wagner-Sillars interfacial polarization (MWS-IP) effect. Here we demonstrated that the existence of MWS-IP ensues a universal scaling between the electrical conductivity, the relaxation time and the dielectric relaxation strength, for various conjugated polymers and their blends. Shedding light on the contribution of the amorphous phase in the conductivity of conjugated polymers can lead to the development of new polymers for applications in electronic devices with improved performance at operationally relevant temperatures.
 <a href="https://doi.org/10.1021/acs.macromol.3c02556"
      target="_blank" rel="noopener">Read more</a> <br>
+
 
 <strong>Epoxy/clay nanodielectrics: from relaxation dynamics to capacitive energy storage</strong> <br>
 <em>Advanced Composites & Hybrid Materials</em> (2024) <br>
