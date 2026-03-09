@@ -20,7 +20,7 @@ author_profile: true
     “Dr. Drakopoulos has enhanced our comprehension of polymers by identifying the universal scaling principles that govern DC conductivity. He achieved this by analyzing the frequency dependence of the dielectric response. Additionally, he has contributed to the development of materials for energy storage applications.”
     </em><br><br>
     The award was issued following nominations from three members of IDS and is conferred biennially.  
-    It was presented during a ceremony at the 12th Conference on Broadband Dielectric Spectroscopy and its Applications, Lisbon, Portugal.<br>
+    It was presented during a ceremony at the 12<sup>th</sup> Conference on Broadband Dielectric Spectroscopy and its Applications, Lisbon, Portugal.<br>
     <a href="https://the-dielectric-society.org/debye/stavros-x-drakopoulos" target="_blank" rel="noopener">
       https://the-dielectric-society.org/debye/stavros-x-drakopoulos
     </a>
