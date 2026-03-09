@@ -20,7 +20,7 @@ author_profile: true
 <div style="margin-bottom: 1.2em;">
   <strong>27</strong>
   <div style="margin-left: 1.5em;">
-    H.L. Sun, <strong>S.X. Drakopoulos</strong>, L. Čamdžić, S.M. Maguire, R.D. Priestley<sup>*</sup>, E.E. Stache<sup>*</sup> (2026).<br>
+    H.L. Sun<sup>§</sup>, <strong>S.X. Drakopoulos<sup>§</sup></strong>, L. Čamdžić, S.M. Maguire, R.D. Priestley<sup>*</sup>, E.E. Stache<sup>*</sup> (2026).<br>
     <em>Polyacrylate Vitrimer Network via In Situ Isocyanide Copolymerization: Synthesis and Molecular Dynamics.</em><br>
     <em>Journal of the American Chemical Society.</em><br>
     <a href="https://doi.org/10.1021/jacs.5c22502" target="_blank" rel="noopener">
