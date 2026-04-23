@@ -11,6 +11,14 @@ author_profile: true
 ## Awards & Honours
 
 <div style="margin-bottom: 1.2em;">
+  <strong>2026</strong>
+  <div style="margin-left: 1.5em;">
+    <strong>PMSE Future Faculty Award, Class of '26</strong><br>
+    Awarded by the American Chemical Society, Division of Polymeric Materials: Science and Engineering.<br><br>
+    <em>
+    The award is going to be presented to me as part of the PMSE Future Faculty Symposium during the ACS Fall 2026 Meeting in Chicago, Illinois.
+    
+<div style="margin-bottom: 1.2em;">
   <strong>2024</strong>
   <div style="margin-left: 1.5em;">
     <strong>Peter Debye Prize for Young Investigators for Excellence in Dielectric Research</strong><br>
