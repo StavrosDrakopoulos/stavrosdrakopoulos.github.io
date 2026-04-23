@@ -18,6 +18,20 @@ author_profile: true
 ---
 
 <div style="margin-bottom: 1.2em;">
+  <strong>28</strong>
+  <div style="margin-left: 1.5em;">
+    <strong>S.X. Drakopoulos<sup>*</sup></strong>, K. Sundol, R.A. Register, R.D. Priestley<sup>*</sup> (2026).<br>
+    <em>Segmental dynamics and local motions in disordered random copolymers.</em><br>
+    <em>Macromolecules.</em><br>
+    <a href="https://doi.org/10.1021/acs.macromol.6c00032" target="_blank" rel="noopener">
+      https://doi.org/10.1021/acs.macromol.6c00032
+    </a>
+  </div>
+</div>
+
+---
+
+<div style="margin-bottom: 1.2em;">
   <strong>27</strong>
   <div style="margin-left: 1.5em;">
     H.L. Sun<sup>§</sup>, <strong>S.X. Drakopoulos<sup>§</sup></strong>, L. Čamdžić, S.M. Maguire, R.D. Priestley<sup>*</sup>, E.E. Stache<sup>*</sup> (2026).<br>
