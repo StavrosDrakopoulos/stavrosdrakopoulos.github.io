@@ -17,7 +17,12 @@ author_profile: true
     Awarded by the American Chemical Society, Division of Polymeric Materials: Science and Engineering.<br><br>
     <em>
     The award is going to be presented to me as part of the PMSE Future Faculty Symposium during the ACS Fall 2026 Meeting in Chicago, Illinois.
-    
+    <br>
+    </div>
+</div>
+
+---
+      
 <div style="margin-bottom: 1.2em;">
   <strong>2024</strong>
   <div style="margin-left: 1.5em;">
@@ -88,6 +93,16 @@ author_profile: true
 ## Scientific Society Memberships
 
 <div style="margin-bottom: 1.2em;">
+  <strong>2026 – present</strong>
+  <div style="margin-left: 1.5em;">
+    <strong>American Institute of Chemical Engineering (AIChE)</strong><br>
+    </ul>
+  </div>
+</div>
+
+---
+
+<div style="margin-bottom: 1.2em;">
   <strong>2025 – present</strong>
   <div style="margin-left: 1.5em;">
     <strong>American Physical Society (APS)</strong><br>
@@ -140,7 +155,7 @@ author_profile: true
 <div style="margin-bottom: 1.2em;">
   <div style="margin-left: 1.5em;">
     <strong>Reviewer</strong> for the following journals:<br>
-    Nature Communications; ACS Applied Electronic Materials; ACS Applied Polymer Materials; Carbohydrate Polymers; Crystals; Industrial &amp; Engineering Chemical Research; Industrial Crops and Products; JACS Au; Journal of Materials Science; Journal of Materials Science and Technology; Journal of Polymers and the Environment; Macromolecules; Micro &amp; Nano Letters; npj Computational Materials; Polymer Bulletin; Polymer Engineering &amp; Science; RSC Advances; Soft Matter; New Journal of Chemistry.
+    Nature Communications, Newton, Journal of the American Chemical Society, ACS Applied Materials & Interfaces, ACS Applied Electronic Materials, ACS Applied Polymer Materials, Carbohydrate Polymers, Crystals, Industrial & Engineering Chemical Research, Industrial Crops and Products, JACS Au, Journal of Materials Science, Journal of Materials Science and Technology, Journal of Polymers and the Environment, Macromolecules, Micro & Nano Letters, npj Computational Materials, Polymer Bulletin, Polymer Engineering & Science, RSC Advances, Soft Matter, New Journal of Chemistry, Langmuir, Physical Chemistry Chemical Physics, Electrical Engineering, Science China Chemistry. 
   </div>
 </div>
 
@@ -149,30 +164,11 @@ author_profile: true
 ## Outreach & Public Engagement
 
 <div style="margin-bottom: 1.2em;">
-  <strong>2023</strong>
+  <strong>2025</strong>
   <div style="margin-left: 1.5em;">
-    Invited presentation to undergraduate and graduate students.<br>
-    Department of Materials Science, University of Patras, Greece.
-  </div>
-</div>
-
----
-
-<div style="margin-bottom: 1.2em;">
-  <strong>2018</strong>
-  <div style="margin-left: 1.5em;">
-    Invited presentation to researchers and faculty members.<br>
-    Department of Biobased Materials, Maastricht University, The Netherlands.
-  </div>
-</div>
-
----
-
-<div style="margin-bottom: 1.2em;">
-  <strong>2017</strong>
-  <div style="margin-left: 1.5em;">
-    Invited presentation to undergraduate and graduate students.<br>
-    Department of Materials Science, University of Patras, Greece.
+    Interview at UP Magazine<br>
+    <em>@up</em>em> (2025), 21:19-21.   
+    This is the official magazine of the University of Patras, Greece. 
   </div>
 </div>
 
