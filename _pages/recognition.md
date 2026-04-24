@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
 ## Awards & Honours
 
 <div style="margin-bottom: 1.2em;">
@@ -15,45 +14,37 @@ author_profile: true
   <div style="margin-left: 1.5em;">
     <strong>PMSE Future Faculty Award, Class of '26</strong><br>
     Awarded by the American Chemical Society, Division of Polymeric Materials: Science and Engineering.<br><br>
-    <em>
-    The award is going to be presented to me as part of the PMSE Future Faculty Symposium during the ACS Fall 2026 Meeting in Chicago, Illinois.
-    <br>
-    </div>
+    <em>The award will be presented as part of the PMSE Future Faculty Symposium during the ACS Fall 2026 Meeting in Chicago, Illinois.</em>
+  </div>
 </div>
 
 ---
-      
+
 <div style="margin-bottom: 1.2em;">
   <strong>2024</strong>
   <div style="margin-left: 1.5em;">
     <strong>Peter Debye Prize for Young Investigators for Excellence in Dielectric Research</strong><br>
     Awarded by the International Dielectric Society (IDS).<br><br>
+
     I was presented with the award with the following citation:<br>
-    <em>
-    “Dr. Drakopoulos has enhanced our comprehension of polymers by identifying the universal scaling principles that govern DC conductivity. He achieved this by analyzing the frequency dependence of the dielectric response. Additionally, he has contributed to the development of materials for energy storage applications.”
-    </em><br><br>
-    The award was issued following nominations from three members of IDS and is conferred biennially.  
-    It was presented during a ceremony at the 12<sup>th</sup> Conference on Broadband Dielectric Spectroscopy and its Applications, Lisbon, Portugal.<br>
+    <em>“Dr. Drakopoulos has enhanced our comprehension of polymers by identifying the universal scaling principles that govern DC conductivity. He achieved this by analyzing the frequency dependence of the dielectric response. Additionally, he has contributed to the development of materials for energy storage applications.”</em><br><br>
+
+    The award was issued following nominations from three members of IDS and is conferred biennially. It was presented during a ceremony at the 12<sup>th</sup> Conference on Broadband Dielectric Spectroscopy and its Applications, Lisbon, Portugal.<br>
+
     <a href="https://the-dielectric-society.org/debye/stavros-x-drakopoulos" target="_blank" rel="noopener">
       https://the-dielectric-society.org/debye/stavros-x-drakopoulos
     </a>
 
-<br>
+    <h3>News &amp; Media Coverage</h3>
 
-<h3>News &amp; Media Coverage</h3>
+    <em>Princeton Materials Institute</em> — Polymer researcher Stavros X. Drakopoulos wins Debye Prize.
+    <a href="https://materials.princeton.edu/news/2024/polymer-researcher-stavros-x-drakopoulos-wins-debye-prize" target="_blank" rel="noopener">Read more</a><br>
 
-<em>Princeton Materials Institute</em> — Polymer researcher Stavros X. Drakopoulos wins Debye Prize.  
-  <a href="https://materials.princeton.edu/news/2024/polymer-researcher-stavros-x-drakopoulos-wins-debye-prize"
-     target="_blank" rel="noopener">Read more</a> <br>
+    <em>Loughborough University</em> — Alumnus awarded The Peter Debye Prize.
+    <a href="https://www.lboro.ac.uk/alumni/news/2024/october/alumnus-the-peter-debye-prize/" target="_blank" rel="noopener">Read more</a><br>
 
-<em>Loughborough University</em> — Alumnus awarded The Peter Debye Prize.  
-  <a href="https://www.lboro.ac.uk/alumni/news/2024/october/alumnus-the-peter-debye-prize/"
-     target="_blank" rel="noopener">Read more</a> <br>
-
-<em>University of Patras</em> — International Honorary Distinction to a Graduate of the Department of Materials Science (<em>in Greek</em>).  
-  <a href="https://www.upatras.gr/diethnis-timitiki-diakrisi-se-apofoito-tou-tmimatos-epistimis-ton-ylikon/"
-     target="_blank" rel="noopener">Read more</a> <br>
-     
+    <em>University of Patras</em> — International Honorary Distinction to a Graduate of the Department of Materials Science (<em>in Greek</em>).
+    <a href="https://www.upatras.gr/diethnis-timitiki-diakrisi-se-apofoito-tou-tmimatos-epistimis-ton-ylikon/" target="_blank" rel="noopener">Read more</a>
   </div>
 </div>
 
@@ -95,8 +86,7 @@ author_profile: true
 <div style="margin-bottom: 1.2em;">
   <strong>2026 – present</strong>
   <div style="margin-left: 1.5em;">
-    <strong>American Institute of Chemical Engineering (AIChE)</strong><br>
-    </ul>
+    <strong>American Institute of Chemical Engineering (AIChE)</strong>
   </div>
 </div>
 
@@ -155,7 +145,7 @@ author_profile: true
 <div style="margin-bottom: 1.2em;">
   <div style="margin-left: 1.5em;">
     <strong>Reviewer</strong> for the following journals:<br>
-    Nature Communications, Newton, Journal of the American Chemical Society, ACS Applied Materials & Interfaces, ACS Applied Electronic Materials, ACS Applied Polymer Materials, Carbohydrate Polymers, Crystals, Industrial & Engineering Chemical Research, Industrial Crops and Products, JACS Au, Journal of Materials Science, Journal of Materials Science and Technology, Journal of Polymers and the Environment, Macromolecules, Micro & Nano Letters, npj Computational Materials, Polymer Bulletin, Polymer Engineering & Science, RSC Advances, Soft Matter, New Journal of Chemistry, Langmuir, Physical Chemistry Chemical Physics, Electrical Engineering, Science China Chemistry. 
+    Nature Communications, Newton, Journal of the American Chemical Society, ACS Applied Materials &amp; Interfaces, ACS Applied Electronic Materials, ACS Applied Polymer Materials, Carbohydrate Polymers, Crystals, Industrial &amp; Engineering Chemical Research, Industrial Crops and Products, JACS Au, Journal of Materials Science, Journal of Materials Science and Technology, Journal of Polymers and the Environment, Macromolecules, Micro &amp; Nano Letters, npj Computational Materials, Polymer Bulletin, Polymer Engineering &amp; Science, RSC Advances, Soft Matter, New Journal of Chemistry, Langmuir, Physical Chemistry Chemical Physics, Electrical Engineering, Science China Chemistry.
   </div>
 </div>
 
@@ -166,9 +156,9 @@ author_profile: true
 <div style="margin-bottom: 1.2em;">
   <strong>2025</strong>
   <div style="margin-left: 1.5em;">
-    Interview at UP Magazine<br>
-    <em>@up</em>em> (2025), 21:19-21.   
-    This is the official magazine of the University of Patras, Greece. 
+    <strong>Interview at UP Magazine</strong><br>
+    <em>@up</em> (2025), 21:19–21.<br>
+    Official magazine of the University of Patras, Greece.
   </div>
 </div>
 
@@ -191,5 +181,3 @@ author_profile: true
     4th High School of Petroupolis, Athens, Greece.
   </div>
 </div>
-
-
