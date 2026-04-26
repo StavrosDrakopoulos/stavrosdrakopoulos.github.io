@@ -5,7 +5,23 @@ permalink: /presentations/
 author_profile: true
 ---
 
+# INVITED PRESENTATIONS
+
+
+
+# INTERNATIONAL CONFERENCES
 ## Oral Presentations
+
+---
+
+<div style="margin-bottom: 1.2em;">
+<strong>8</strong>
+<div style="margin-left: 1.5em;">
+<strong>S.X. Drakopoulos</strong>, H.-L. Sun, L. Čamdžić, E.E. Stache, R.D. Priestley (August 23–27, 2026, Chicago, IL, USA).<br>
+<em>Segmental dynamics and local motions in disordered random co-polymers.</em><br>
+INVITED Oral Presentation as an Awardee in the PMSE Future Faculty Symposium at the ACS Fall 2026.
+</div>
+</div>
 
 ---
 
@@ -86,6 +102,39 @@ Oral Presentation at the 10th Conference on Broadband Dielectric Spectroscopy an
 
 
 ## Poster Presentations
+
+---
+
+<div style="margin-bottom: 1.2em;">
+  <strong>15</strong>
+  <div style="margin-left: 1.5em;">
+    <strong>S.X. Drakopoulos</strong>, H.-L. Sun, L. Čamdžić, E.E. Stache, R.D. Priestley (August 23–27, 2026, South Hadley, Chicago, IL, USA).<br>
+    <em>Bond exchange relaxation dynamics underpinning charge transport in vitrimer polymers.</em><br>
+    Poster Presentation at the ACS Fall 2026.
+  </div>
+</div>
+
+---
+
+<div style="margin-bottom: 1.2em;">
+  <strong>14</strong>
+  <div style="margin-left: 1.5em;">
+    <strong>S.X. Drakopoulos</strong>, S. Kim, R.A. Register, R.D. Priestley (July 26–31, 2026, South Hadley, MA, USA).<br>
+    <em>Segmental dynamics and local motions in disordered random co-polymers.</em><br>
+    Poster Presentation at the ‘Linking Polymer Design, Structure, and Properties’ Polymer Physics Gordon Research Conference.
+  </div>
+</div>
+
+---
+
+<div style="margin-bottom: 1.2em;">
+  <strong>13</strong>
+  <div style="margin-left: 1.5em;">
+    <strong>S.X. Drakopoulos</strong>, H.-L. Sun, L. Čamdžić, E.E. Stache, R.D. Priestley (July 25–26, 2026, South Hadley, MA, USA).<br>
+    <em>Bond exchange relaxation dynamics underpinning charge transport in vitrimer polymers.</em><br>
+    Poster Presentation at the ‘Driving Sustainable Innovation with Molecular Insights’ Polymer Physics Gordon Research Seminar.
+  </div>
+</div>
 
 ---
 
