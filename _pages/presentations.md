@@ -5,11 +5,57 @@ permalink: /presentations/
 author_profile: true
 ---
 
-# INVITED PRESENTATIONS
+## INVITED PRESENTATIONS
+
+---
+
+<div style="margin-bottom: 1.2em;">
+<strong>5</strong>
+<div style="margin-left: 1.5em;">
+Presentation on Segmental dynamics and local motions in disordered random co-polymers as an Awardee in the PMSE Future Faculty Symposium at the ACS Fall 2026 in Chicago, IL, USA.
+</div>
+</div>
+
+---
+
+<div style="margin-bottom: 1.2em;">
+<strong>4</strong>
+<div style="margin-left: 1.5em;">
+Presentation on Dielectric properties and relaxation dynamics of poly(acrylate-co-isocyanide) vitrimers at the 10th International Discussion Meeting on Relaxations in Complex Systems 2025, in Barcelona, Spain.
+</div>
+</div>
+
+---
+
+<div style="margin-bottom: 1.2em;">
+<strong>3</strong>
+<div style="margin-left: 1.5em;">
+Departmental Seminar and Career Lecture to undergraduate students, graduate students, and faculty, Department of Materials Science, University of Patras, Greece, 2023.
+</div>
+</div>
+
+---
+
+<div style="margin-bottom: 1.2em;">
+<strong>2</strong>
+<div style="margin-left: 1.5em;">
+Seminar on disentangled UHMWPE and entanglement formation dynamics to researchers and faculty, Department of Biobased Materials, Maastricht University, The Netherlands, 2018.
+</div>
+</div>
+
+---
+
+<div style="margin-bottom: 1.2em;">
+<strong>1</strong>
+<div style="margin-left: 1.5em;">
+Departmental Seminar and Career Lecture to undergraduate students, graduate students, and faculty, Department of Materials Science, University of Patras, Greece, 2017.
+</div>
+</div>
+
+---
 
 
-
-# INTERNATIONAL CONFERENCES
+## INTERNATIONAL CONFERENCES
 ## Oral Presentations
 
 ---
