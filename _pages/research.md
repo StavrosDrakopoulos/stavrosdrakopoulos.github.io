@@ -19,6 +19,16 @@ as well as, dynamic mechanical analysis, rheology, and calorimetry, and combined
 ### Representitives Research Articles
 <br>
 
+<strong>Segmental dynamics and local motions in disordered random copolymers</strong> <br>
+<em>Macromolecules</em> (2026) <br>
+
+<img src="/images/research_figure_7.png" alt="Dielectric spectroscopy research" width="600"> <br>
+
+Understanding the glass transition in amorphous polymers and the underlying principles that govern segmental motions remains a key challenge in polymer physics. Here, we investigated random copolymers composed of methyl methacrylate (MMA) and 4-tert-butylstyrene (TBS) monomers across various compositions to elucidate the influence of monomer bulkiness on the glass transition temperature (Tg), fragility (m), and segmental dynamics. The calorimetric Tg values were observed to strongly deviate from the Fox equation, showcasing a structure-independent behavior at high to medium MMA concentrations, and a ‘super-Fox’ increase at low MMA content. We correlated this to tacticity as well as frustrated chain packing, as corroborated by changes in the m values. A closer look at the β-relaxation revealed a strong dependence on the molecular composition: below the Tg, the activation energy decreased with TBS, indicating a transition toward a side-group reorientation-dominated mechanism, while above the Tg, the TBS monomers participate in the process, despite PTBS lacking a β-relaxation. The coexistence of TBS and MMA monomers revealed a fundamental shift in relaxation dynamics manifested by the decoupling of α- and β- relaxations, which we analyzed via the double-percolation mechanism. Our findings offer new insights into polymer relaxation behavior and the relationship between the α- and β- relaxation mechanisms with implications in materials optimization. 
+<a href="https://doi.org/10.1021/acs.macromol.6c00032"
+     target="_blank" rel="noopener">Read more</a> <br>
+
+     
 <strong>Polyacrylate Vitrimer Network via In Situ Isocyanide Copolymerization: Synthesis and Molecular Dynamics</strong> <br>
 <em>Journal of the American Chemical Society</em> (2026) <br>
 
@@ -47,25 +57,6 @@ Understanding the intricate relationship between conductivity and polymer film m
 
 Nanodielectric systems based on a high glass-to-rubber transition temperature (T<sub>g</sub>) epoxy resin modified with laponite® (Na<sup>+</sup><sub>0.7</sub>[(Si<sub>8</sub>Mg<sub>5.5</sub>Li<sub>0.3</sub>)O<sub>20</sub>(OH)<sub>4</sub>]<sup>–0.7</sup>) cylindrical nanoparticles were developed and examined as dielectric materials for capacitive energy storage applications. Laponite is an inexpensive synthetic nanoclay that has recently gathered attention as potent electrode material for batteries, due to its high specific surface area and ionic groups. The dielectric properties of the developed nanocomposites were investigated extensively by means of broadband dielectric spectroscopy (BDS), which revealed intense Maxwell–Wagner-Sillars interfacial polarisation (MWS-IP) phenomena at the organic/inorganic interface and an additional dielectric process that showed a strong dependence on the nanoclay concentration, thus attributed to laponite (IDE). It was also found that the presence of laponite significantly altered the temperature dependence of MWS-IP, leading to an enhancement in relaxation times at higher temperatures. The observed phenomenon is attributed to less mobile, adsorbed polymer fragments entrapped between two or more laponite nanoparticles that alters the interphase between the particle and the epoxy. MWS-IP was observed to obey the Barton-Nakajima-Namikawa relation with the dc conductivity values being indicative that both phenomena are associated with the same charge carriers, at different timescales. Moreover, the cycle life performance of epoxy/laponite nanodielectrics was also examined at 30 °C and 120 °C conducting charge/discharge measurements in dc conditions. The addition of laponite nanoparticles endowed the nanodielectric systems with significantly improved capacitive energy efficacy.
 <a href="https://doi.org/10.1007/s42114-024-00924-4"
-     target="_blank" rel="noopener">Read more</a> <br>
-
-
-<strong>Flexible Polymer-Based Nanodielectrics Reinforced with Electrospun Composite Nanofibers for Capacitive Energy Storage</strong> <br>
-<em>ACS Applied Polymer Materials</em> (2022) <br>
-
-<img src="/images/research_figure_2.png" alt="Dielectric spectroscopy research" width="600"> <br>
-
-Nanocomposite materials based on polydimethylsiloxane (PDMS) reinforced by electrospun poly(vinylidene fluoride) (PVDF) nanofibers and barium titanate (BTO) nanoparticles were fabricated and tested as dielectric materials for capacitive energy storage applications. Two types of BTO nanoparticles were examined, prior and after ball milling, to investigate the effect of interfacial area and size on the dielectric properties. The morphology of the produced PVDF nanofibers was evaluated via scanning electron microscopy (SEM) to ensure the optimum electrospinning conditions and verify the incorporation of BTO nanoparticles. The composite systems were analyzed by dielectric spectroscopy, and three dielectric processes were revealed: the dynamic glass-to-rubber transition processes of PDMS and PVDF and an interfacial polarization process. It was observed that the dynamic glass-to-rubber transition process of the PVDF nanofibers strongly depends on the size of the BTO nanoparticles that introduce confinement effects and affect thus the temperature dependence of the relaxation. In addition, as verified by ac conductivity, ball milling reduced the conduction of the nanocomposites by 80%, indicating the increase of the charge carrier trapping area around the BTO nanoparticles. Finally, the developed nanocomposites were tested as dielectric materials for capacitor applications at room temperature conducting charge/discharge measurements under the influence of a dc electric field, and their discharge performance and efficiency were examined at various dc voltages (50–300 V) and cycle life. Here, experimental evidence regarding the importance of interfacial area on the energy storage performance in nanodielectrics is presented that will aid the development of more efficient energy materials.
-<a href="https://doi.org/10.1021/acsapm.2c01162"
-     target="_blank" rel="noopener">Read more</a> <br>
-
-<strong>Relaxation Dynamics in Disentangled Ultrahigh Molecular Weight Polyethylene via Torsional Rheology</strong> <br>
-<em>Industrial & Engineering Chemistry Research</em> (2020) <br>
-
-<img src="/images/research_figure_3.png" alt="Dielectric spectroscopy research" width="600"> <br>
-
-The relaxation dynamics of disentangled ultrahigh molecular weight polyethylene (UHMWPE) were analyzed by means of torsional rheology in a broad frequency and temperature range. The disentangled specimens were compression-molded at two different temperatures, solid state (125 °C) and melt state (160 °C), and the latter was compared with a melt-state-processed commercial UHMWPE specimen. Three different relaxation processes were observed, namely, α<sub>c</sub>-, β-, and γ-relaxations, as expected for polyethylene. The relaxation strengths of the α<sub>c</sub>- and γ-relaxations were found to be dependent on the crystallinity content, verified by means of differential scanning calorimetry. The relaxation molecular dynamics of the γ-relaxation in the solid-state-compressed disentangled sample follows a Vogel–Fulcher–Tammann–Hesse trend, suggesting a dynamic glass-to-rubber transition. The same trend is not found for the γ-relaxation of both melt-state-processed samples, thus suggesting a role of crystalline polydispersity and entanglement density in the free volume of the amorphous segments.
-<a href="https://doi.org/10.1021/acs.iecr.9b06401"
      target="_blank" rel="noopener">Read more</a> <br>
 
 ## Future Research
