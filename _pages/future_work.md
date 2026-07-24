@@ -11,4 +11,4 @@ With a long‑term goal of enabling advanced materials in next‑generation <str
 
 <img src="/images/future_research.png" alt="Dielectric spectroscopy research" width="600"> <br>
 
----
+
