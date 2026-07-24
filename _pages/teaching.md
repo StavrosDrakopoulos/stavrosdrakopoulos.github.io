@@ -1,17 +1,11 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Mentoring"
 permalink: /teaching/
 author_profile: true
 ---
 
-Teaching is as vital as research in fulfilling a university’s mission—while research creates new knowledge, teaching ensures its meaningful transmission. I view teaching and mentoring as central to my academic purpose.
-
----
-
-## Teaching & Mentorship Experience
-
-Upon receiving my undergraduate degree, I had the opportunity to teach and mentor undergraduate and postgraduate students across multiple institutions in both England and the United States. As a PhD student at Loughborough University, I served as a teaching assistant in both lecture-based and laboratory courses for materials engineering students, and I mentored several students on their research projects. At the University of Birmingham and Princeton University, I co-advised undergraduate students on summer internships and independent research projects.
+Teaching is as vital as research in fulfilling a university’s mission while research creates new knowledge, teaching ensures its meaningful transmission. I view teaching and mentoring as central to my academic purpose. Moreover, I believe all students, regardless of background, can thrive when given the right tools, encouragement, and challenges. Academia offers a space for growth through the exchange of ideas, and I aim to be a supportive guide, nurturing curiosity and helping students turn setbacks into opportunities for deeper understanding. My teaching and mentorship experience spans both undergraduate and postgraduate levels across the UK and the US. Reflecting on how formative it was to co-author peer-review publications during my undergraduate research at the University of Patras, I am committed to offering young researchers meaningful opportunities from the earliest stages of their academic journey, regardless of the career path they ultimately pursue. Engaging in the full research process; from conceptualization, literature reading and understanding, experimental design to data analysis and manuscript preparation, equips students with essential practical and interpersonal skills applicable far beyond academia. To date, I have had the privilege of co-advising three undergraduate students from Loughborough, Birmingham, and Princeton.
 
 ---
 
