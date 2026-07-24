@@ -11,21 +11,26 @@ Teaching is as vital as research in fulfilling a university’s mission while re
 
 ## Guest Lectures & Laboratory Instruction
 
-<div style="margin-bottom: 1.2em;">
-  <strong>Guest Lecture</strong><br>
-  <div style="margin-left: 1.5em;">
-    <strong>Course:</strong> Special Topics in CHE: Polymer-1 (CHE06502), Department of Chemical Engineering, Rowan University, USA<br>
-    <strong>Semester / Year:</strong> Spring 2026<br>
-    <strong>Lecture Topic:</strong> <em>Electrical and dielectric properties of polymers</em><br>
-    <strong>Audience:</strong> 25 Undergraduate and Postgraduate students
+### Guest Lectures
 
+<div style="margin-left: 1.5em;">
 
+<strong>Course:</strong> Special Topics in CHE: Polymer-1 (CHE06502), Department of Chemical Engineering, Rowan University, USA<br>
+<strong>Semester / Year:</strong> Spring 2026<br>
+<strong>Lecture Topic:</strong> <em>Electrical and dielectric properties of polymers</em><br>
+<strong>Audience:</strong> 25 Undergraduate and Postgraduate students
 
-    <strong>Course:</strong> Polymer Science (MPP501), Department of Materials, Loughborough University<br>
-    <strong>Semester / Year:</strong> Spring 2018, Spring 2019<br>
-    <strong>Lecture Topic:</strong> <em>Broadband Dielectric Spectroscopy in Polymer Science</em><br>
-    <strong>Audience:</strong> 40 Postgraduate (MEng) students
-  </div>
+</div>
+
+---
+
+<div style="margin-left: 1.5em;">
+
+<strong>Course:</strong> Polymer Science (MPP501), Department of Materials, Loughborough University<br>
+<strong>Semester / Year:</strong> Spring 2018, Spring 2019<br>
+<strong>Lecture Topic:</strong> <em>Broadband Dielectric Spectroscopy in Polymer Science</em><br>
+<strong>Audience:</strong> 40 Postgraduate (MEng) students
+
 </div>
 
 ---
