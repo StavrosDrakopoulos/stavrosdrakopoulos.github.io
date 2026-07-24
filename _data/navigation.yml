@@ -8,6 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  - title: "CV"
+    url: "https://stavrosdrakopoulos.github.io/files/CV_Stavros_X_Drakopoulos.pdf"
+    target: "_blank"
+    
+  - title: "Future Work"
+    url: /future_work/
+    
   - title: "Research"
     url: /research/
     
@@ -23,8 +31,5 @@ main:
   - title: "Recognition"
     url: /recognition/
     
-  - title: "CV"
-    url: "https://stavrosdrakopoulos.github.io/files/CV_Stavros_X_Drakopoulos.pdf"
-    target: "_blank"
 
 
