@@ -9,4 +9,6 @@ My research program seeks to reveal how molecular structure and interfacial orga
 
 With a long‑term goal of enabling advanced materials in next‑generation <strong>energy‑storage technologies</strong>, my research seeks to use <strong>dielectric relaxation</strong> and <strong>charge‑transport dynamics</strong> as fundamental probes of molecular constraint, disorder, and interfacial coupling in polymer‑based materials. One of the central points of my research is to understand how order and disorder govern dielectric behavior in nanostructured polymer systems, and how these mechanisms ultimately limit or facilitate functional performance in <strong>capacitors</strong>. Building beyond conventional polymer dielectrics, I will pursue largely unexplored areas of advanced materials, including polymer composites incorporating <strong>superconducting</strong> micro‑ and nanoscale fillers to access emergent electrical and magnetic behavior at cryogenic temperatures, as well as <strong>vitrimer polymer</strong> dielectrics where dynamic covalent bond exchange can be harnessed to create <strong>self‑healing</strong>, nanostructured capacitors.
 
+<img src="/images/future_research.png" alt="Dielectric spectroscopy research" width="600"> <br>
+
 ---
