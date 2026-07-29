@@ -21,6 +21,7 @@ Teaching is as vital as research in fulfilling a university’s mission while re
     <strong>Audience:</strong> 25 Undergraduate and Postgraduate students
 
     <br>
+    <br>
 
     <strong>Course:</strong> Polymer Science (MPP501), Department of Materials, Loughborough University<br>
     <strong>Semester / Year:</strong> Spring 2018, Spring 2019<br>
