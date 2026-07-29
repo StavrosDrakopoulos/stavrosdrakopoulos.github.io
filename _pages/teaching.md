@@ -79,7 +79,7 @@ Mentored a total of <strong>two postgraduate students</strong>, both at Loughbor
 
 ---
 
-## Student Mentorship (Selected Projects)
+## Student Mentorship
 
 <div style="margin-bottom: 1.2em;">
   <strong>Spring / Summer 2024</strong>
