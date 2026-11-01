@@ -9,10 +9,23 @@ Teaching is as vital as research in fulfilling a university’s mission while re
 
 ---
 
-## Guest Lectures & Laboratory Instruction
+## Lectures & Laboratory Instruction
+
+---
 
 <div style="margin-bottom: 1.2em;">
-  <strong>Guest Lecture</strong><br>
+  <strong>Lecturer</strong><br>
+  <div style="margin-left: 1.5em;">
+    <strong>Course:</strong> Foundations of Engineering: The Mathematics of Shape and Motion (EGR152), School of Engineering and Applied Science, Princeton University, USA<br>
+    <strong>Semester / Year:</strong> Fall 2026<br>
+    <strong>Audience:</strong> 67 Undergraduate students
+  </div>
+</div>
+
+---
+
+<div style="margin-bottom: 1.2em;">
+  <strong>Guest Lecturer</strong><br>
   <div style="margin-left: 1.5em;">
     
     <strong>Course:</strong> Special Topics in CHE: Polymer-1 (CHE06502), Department of Chemical Engineering, Rowan University, USA<br>
