@@ -14,7 +14,7 @@ author_profile: true
   <div style="margin-left: 1.5em;">
     <strong>PMSE Future Faculty Award, Class of '26</strong><br>
     Awarded by the American Chemical Society, Division of Polymeric Materials: Science and Engineering.<br><br>
-    <em>The award will be presented as part of the PMSE Future Faculty Symposium during the ACS Fall 2026 Meeting in Chicago, Illinois.</em>
+    <em>The award was presented as part of the PMSE Future Faculty Symposium during the ACS Fall 2026 Meeting in Chicago, Illinois.</em>
   </div>
 </div>
 
