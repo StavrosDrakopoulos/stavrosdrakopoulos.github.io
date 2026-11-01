@@ -61,6 +61,28 @@ Departmental Seminar and Career Lecture to undergraduate students, graduate stud
 ---
 
 <div style="margin-bottom: 1.2em;">
+<strong>10</strong>
+<div style="margin-left: 1.5em;">
+<strong>S.X. Drakopoulos</strong>, J. Gu, R.D. Priestley, L.S. Xie (November 8–12, 2026, Minneapolis, MN, USA).<br>
+<em>Flexible 2D Metal–Organic Chalcogenides/Polymer Nanodielectrics for Capacitive Energy Storage.</em><br>
+Oral Presentation at the 2026 AIChE Annual Meeting.
+</div>
+</div>
+
+---
+
+<div style="margin-bottom: 1.2em;">
+<strong>9</strong>
+<div style="margin-left: 1.5em;">
+<strong>S.X. Drakopoulos</strong>, Y. Seo, R.D. Priestley (November 8–12, 2026, Minneapolis, MN, USA).<br>
+<em>Influence of Ageing and Water Content on the Relaxation and Charge‑Transport Dynamics of Hydroxypropyl Methylcellulose Acetate Succinate.</em><br>
+Oral Presentation at the 2026 AIChE Annual Meeting.
+</div>
+</div>
+
+---
+
+<div style="margin-bottom: 1.2em;">
 <strong>8</strong>
 <div style="margin-left: 1.5em;">
 <strong>S.X. Drakopoulos</strong>, H.-L. Sun, L. Čamdžić, E.E. Stache, R.D. Priestley (August 23–27, 2026, Chicago, IL, USA).<br>
@@ -148,6 +170,17 @@ Oral Presentation at the 10th Conference on Broadband Dielectric Spectroscopy an
 
 
 ## Poster Presentations
+
+---
+
+<div style="margin-bottom: 1.2em;">
+  <strong>16</strong>
+  <div style="margin-left: 1.5em;">
+    <strong>S.X. Drakopoulos</strong> (November 8–12, 2026, Minneapolis, MN, USA).<br>
+    <em>From Polymer Physics to Energy Storage: Dynamics and Applications of Functional Polymers.</em><br>
+    Poster Presentation at the 2026 AIChE Annual Meeting.
+  </div>
+</div>
 
 ---
 
